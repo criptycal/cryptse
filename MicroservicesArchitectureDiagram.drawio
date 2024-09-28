@@ -88,6 +88,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="UEzPUAAOIrF-is8g5C7q-114" target="xVwqEHrUv4qcuta3dnkX-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520" y="753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-114" value="API&lt;br&gt;Gateway" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-540" y="366" width="78" height="78" as="geometry" />
         </mxCell>
