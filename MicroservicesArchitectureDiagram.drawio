@@ -52,6 +52,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-76" value="GraphQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVwqEHrUv4qcuta3dnkX-28">
+          <mxGeometry x="-0.1006" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-114" value="API&lt;br&gt;Gateway" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.api_gateway;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-530.5" y="377.5" width="78" height="78" as="geometry" />
         </mxCell>
@@ -83,12 +88,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-80" value="GraphQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVwqEHrUv4qcuta3dnkX-40">
+          <mxGeometry x="0.3803" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xVwqEHrUv4qcuta3dnkX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVwqEHrUv4qcuta3dnkX-27" target="xVwqEHrUv4qcuta3dnkX-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-331" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-330" y="400" />
+              <mxPoint x="-320" y="400" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-79" value="GraphQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVwqEHrUv4qcuta3dnkX-51">
+          <mxGeometry x="0.4255" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xVwqEHrUv4qcuta3dnkX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVwqEHrUv4qcuta3dnkX-27" target="xVwqEHrUv4qcuta3dnkX-55">
@@ -96,6 +111,11 @@
             <Array as="points">
               <mxPoint x="-351" y="94" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-70" value="GraphQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVwqEHrUv4qcuta3dnkX-56">
+          <mxGeometry x="0.2208" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xVwqEHrUv4qcuta3dnkX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVwqEHrUv4qcuta3dnkX-27">
@@ -107,11 +127,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-77" value="GraphQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVwqEHrUv4qcuta3dnkX-63">
+          <mxGeometry x="0.5115" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xVwqEHrUv4qcuta3dnkX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xVwqEHrUv4qcuta3dnkX-27" target="xVwqEHrUv4qcuta3dnkX-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-370" y="732" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVwqEHrUv4qcuta3dnkX-78" value="GraphQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVwqEHrUv4qcuta3dnkX-65">
+          <mxGeometry x="0.6118" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xVwqEHrUv4qcuta3dnkX-27" value="Ecommerce System" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=image;resIcon=mxgraph.aws4.api_gateway;labelBackgroundColor=#ffffff;whiteSpace=wrap;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/e-commerce-line-style/32/ecommerce_line_style-07-128.png;" vertex="1" parent="1">
